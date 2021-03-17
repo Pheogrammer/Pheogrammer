@@ -1,11 +1,11 @@
-### Hi there 👋, My name is Alfeo Raymond Ngelime (Pheogrammer)
+### Hi there 👋, My name is Alfeo Raymond Ngelime (Pheogrammer), I am a Full Stack Web Developer with PHP
 
 
-- 🔭 I’m currently working on Random Laravel Projects
-- 🌱 I’m currently learning Python and React
+- 🔭 I’m currently working on Laravel Projects and other PHP frameworks
+- 🌱 I’m currently learning Python as my 'Path to be'
 - 👯 I’m looking to collaborate on Opensource Projects
-- 🤔 I’m looking for help with Python
+- 🤔 I’m looking for help with learning Python, if available
 - 💬 Ask me about PHP 
-- 📫 How to reach me: Ngelime07@gmail.com, @alfeoraymond on instagram
+- 📫 How to reach me: Ngelime07@gmail.com, +255745909129, @alfeoraymond on instagram
 - 😄 Pronouns: Developer Fullstack/ Pullstack
-- ⚡ Fun fact: "code talks louder than words"
+- ⚡ Fun fact: "It ain't done untill some code is committed"
