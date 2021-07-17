@@ -1,4 +1,4 @@
-### Hi there 👋, My name is Alfeo Raymond Ngelime (Pheogrammer), I am a Full Stack Web Developer with PHP
+### Hi there 👋, My name is Alfeo Raymond Ngelime (Pheogrammer), I am a Full Stack Web Developer
 
 
 - 🔭 I’m currently working on Laravel Projects and other PHP frameworks
