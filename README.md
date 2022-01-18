@@ -1,7 +1,7 @@
-### Hi there 👋, My name is Alfeo Raymond (Pheogrammer), I am a Full Stack Web Developer
+### Hi there 👋, My name is Alfeo Raymond (Pheogrammer), I am a Software Developer (Full Stack)
 
 
-- 🔭 I’m currently working on Laravel Projects and other PHP frameworks
+- 🔭 I’m currently working on Laravel and Django Projects
 - 🌱 I’m currently learning Python as my 'Path to be'
 - 👯 I’m looking to collaborate on Opensource Projects
 - 🤔 I’m looking for help with learning Python, if available
