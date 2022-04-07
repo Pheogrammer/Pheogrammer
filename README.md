@@ -1,4 +1,4 @@
-### Hi there 👋, My name is Alfeo Raymond (Pheogrammer), I am a Software Developer (Full Stack)
+### Hi there 👋, My name is Alfeo Raymond (Pheogrammer), I am a Software Developer (Full Stack) and a GitHub Campus Expert
 
 
 - 🔭 I’m currently working on Laravel and Django Projects
