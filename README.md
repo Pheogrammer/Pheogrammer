@@ -7,5 +7,5 @@
 - 🤔 I’m looking for help with learning Python, if available
 - 💬 Ask me about SEO, CMS, PHP, Javascript 
 - 📫 How to reach me: Ngelime07@gmail.com, +255745909129 or @alfeoraymond on instagram
-- 😄 Pronouns: Developer Fullstack
+- 😄 Pronouns: Go-OG-ler
 - ⚡ Fun fact: "It ain't done untill all bugs are quiet 🤐"
