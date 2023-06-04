@@ -5,6 +5,8 @@ I'm passionate about creating innovative software solutions and contributing to 
 
 I am a skilled software developer and HCD expert with experience in project management, technical documentation and training, IT support and consultation, web and mobile applications and systems development, data analysis, APIs and systems integration, and database administration and server configurations and management.
 
+I have been working on some React, NodeJS projects, as well as developing Moodle, Joomla, and WordPress CMS systems.
+
 I am open to exciting opportunities and challenges that can make a positive impact on the world. If you have a project or initiative that aligns with my skills and expertise, I would love to hear from you. Let's collaborate and create something amazing together!
 
 ## Connect with Me
