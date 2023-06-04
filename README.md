@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Alfeo Raymond
 
 ## About Me
-I'm passionate about creating innovative software solutions and contributing to the open-source community. With a strong foundation in Full Stack development, I specialize in Laravel and Django projects. I love exploring new technologies and staying up to date with the latest trends in software development.
+I'm passionate about creating innovative software solutions and contributing to the open-source community. With a strong foundation in Full Stack development, I specialize in Laravel, React and Django projects. I love exploring new technologies and staying up to date with the latest trends in software development.
 
 I am a skilled software developer and HCD expert with experience in project management, technical documentation and training, IT support and consultation, web and mobile applications and systems development, data analysis, APIs and systems integration, and database administration and server configurations and management.
 
