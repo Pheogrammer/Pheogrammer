@@ -18,6 +18,6 @@ I'm always up for a good laugh and collaboration, so if you have a project or an
 - 👯 If you're looking to inject some comedy into your projects or just want to have a coding buddy with a sense of humor, I'm your guy!
 
 ## Areas of Expertise
-- 💬 I'm knowledgeable in SEO, CMS, PHP, and JavaScript. I can code with a straight face, but I also know how to add a touch of laughter to my projects.
+- 💬 I'm knowledgeable in CMS, PHP, Python and JavaScript. I can code with a straight face, but I also know how to add a touch of laughter to my projects.
 
 Looking forward to connecting with fellow developers and creating software that not only works flawlessly but also brings a smile to people's faces!
