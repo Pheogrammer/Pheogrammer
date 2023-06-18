@@ -21,3 +21,9 @@ I'm always up for a good laugh and collaboration, so if you have a project or an
 - 💬 I'm knowledgeable in CMS, PHP, Python and JavaScript. I can code with a straight face, but I also know how to add a touch of laughter to my projects.
 
 Looking forward to connecting with fellow developers and creating software that not only works flawlessly but also brings a smile to people's faces!
+
+---
+<p float="left">
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Pheogrammer&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Pheogrammer&show_icons=true&hide_border=false&layout=compact&langs_count=10"/>
+</p>
