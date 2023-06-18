@@ -5,8 +5,6 @@ With a strong foundation in Full Stack development, I specialize in creating web
 
 In addition to casting spells with code, I've dabbled in project management, technical documentation (I can turn coffee into documentation, no kidding!), and even the ancient art of IT support and consultation. I've developed web and mobile applications that are more reliable than a magic crystal ball. 🔮 Plus, I've tamed wild databases and mastered the art of server configurations like a true sorcerer.
 
-I've worked on a variety of projects, including creating CMS systems like Moodle, Joomla, and WordPress. If you need a website that's as enchanting as a fairy tale, I've got the spells to make it happen!
-
 In my free time, you might catch me improvising with the latest JavaScript frameworks or perfecting my timing for the punchlines on and off stage. 🎤 They say laughter is the best medicine, and I'm on a mission to make the world a healthier place, one giggle at a time.
 
 I'm always up for a good laugh and collaboration, so if you have a project or an idea that needs a dose of humor, let's team up and create something hilarious together! 😄
