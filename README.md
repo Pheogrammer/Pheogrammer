@@ -29,6 +29,8 @@ Looking forward to connecting with fellow developers and creating software that 
   <tbody>
     <tr>
       <td>
+        <img title="a title" alt="Alt text" src="[/images/boo.svg](https://github-readme-streak-stats.herokuapp.com/?user=Pheogrammer)">
+
         ![image](https://github-readme-streak-stats.herokuapp.com/?user=Pheogrammer)
       </td>
       <td>
