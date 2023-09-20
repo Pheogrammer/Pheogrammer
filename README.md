@@ -23,7 +23,7 @@ Looking forward to connecting with fellow developers and creating software that 
 ---
 
 
-<table>
+<table border="0">
   <tbody>
     <tr>
       <td>
