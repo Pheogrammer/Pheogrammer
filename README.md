@@ -29,7 +29,7 @@ Looking forward to connecting with fellow developers and creating software that 
   <tbody>
     <tr>
       <td>
-          <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pheogrammer&" alt="Pheogrammer" />
+        ![image](https://github-readme-streak-stats.herokuapp.com/?user=Pheogrammer)
       </td>
       <td>
         <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Pheogrammer&show_icons=true&hide_border=false&layout=compact&langs_count=10"/>
